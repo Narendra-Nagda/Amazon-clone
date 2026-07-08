@@ -9,3 +9,6 @@ This is a Google homepage clone built using HTML and CSS.
 ## Technologies Used
 - HTML
 - CSS
+
+## Live Demo
+- https://narendra-nagda.github.io/Amazon-clone/
