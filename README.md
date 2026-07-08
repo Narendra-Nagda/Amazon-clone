@@ -1,4 +1,4 @@
-# Google Clone
+# Amazon Clone
 
 This is a Google homepage clone built using HTML and CSS.
 
